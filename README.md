@@ -33,7 +33,7 @@ I don’t just follow tutorials — I create projects that solve real problems.
 ![](https://nirzak-streak-stats.vercel.app/?user=Manish9163&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9163&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
