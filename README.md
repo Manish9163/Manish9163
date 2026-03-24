@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Manish!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+<img width="100%" alt="Animated wave banner reading Hey I'm Manish – Full-Stack Developer, Open Source Enthusiast, Problem Solver" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Manish!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@ open_to: Collaborations & Open Source Contributions
 fun_fact: I turn ☕ coffee into 💻 code
 ```
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492bcaf06d7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+<img align="right" alt="" width="380" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492bcaf06d7/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
 
 - 🔭 &nbsp;I'm currently working on **exciting full-stack projects**
 - 🌱 &nbsp;I'm currently learning **Cloud, DevOps & System Design**
@@ -137,7 +137,7 @@ fun_fact: I turn ☕ coffee into 💻 code
 
 ### 💡 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Inspirational programming quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
